@@ -13,6 +13,7 @@
 		2FDB0136273E88D30027EB50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FDB0134273E88D30027EB50 /* Main.storyboard */; };
 		2FDB0138273E88D50027EB50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FDB0137273E88D50027EB50 /* Assets.xcassets */; };
 		2FDB013B273E88D50027EB50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FDB0139273E88D50027EB50 /* LaunchScreen.storyboard */; };
+		2FDB0143273E88EC0027EB50 /* OrderedDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDB0142273E88EC0027EB50 /* OrderedDictionary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2FDB0137273E88D50027EB50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FDB013A273E88D50027EB50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FDB013C273E88D50027EB50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FDB0142273E88EC0027EB50 /* OrderedDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderedDictionary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2FDB012E273E88D30027EB50 /* AppDelegate.swift */,
 				2FDB0130273E88D30027EB50 /* SceneDelegate.swift */,
 				2FDB0132273E88D30027EB50 /* ViewController.swift */,
+				2FDB0142273E88EC0027EB50 /* OrderedDictionary.swift */,
 				2FDB0134273E88D30027EB50 /* Main.storyboard */,
 				2FDB0137273E88D50027EB50 /* Assets.xcassets */,
 				2FDB0139273E88D50027EB50 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FDB0133273E88D30027EB50 /* ViewController.swift in Sources */,
+				2FDB0143273E88EC0027EB50 /* OrderedDictionary.swift in Sources */,
 				2FDB012F273E88D30027EB50 /* AppDelegate.swift in Sources */,
 				2FDB0131273E88D30027EB50 /* SceneDelegate.swift in Sources */,
 			);
